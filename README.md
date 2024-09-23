@@ -76,8 +76,4 @@ git config --global user.name your_user_id
 
 ## 表示確認
 
-xampp が正しくインストールされ、apache がサーバとして動作していれば
-
-http://localhost/各自のリポジトリ名/hello.html
-
-で、このリポジトリの hello.html ファイルが表示されるはずである。なお、この「localhost」は、「自分自身」を表すコンピュータ名である。
+Visual Studio Code と Live Preview が正しく動作していれば、HTML の解釈結果が正しく表示されているはずである。
